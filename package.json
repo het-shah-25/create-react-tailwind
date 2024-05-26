@@ -1,6 +1,6 @@
 {
   "name": "create-react-tailwind",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A CLI tool to create a new React or Vite project with Tailwind CSS setup and a predefined folder structure.",
   "main": "index.js",
   "type": "module",
@@ -15,7 +15,6 @@
     "react",
     "vite",
     "tailwindcss",
-    "scaffolding",
     "folder-structure"
   ],
   "author": "het shah",
